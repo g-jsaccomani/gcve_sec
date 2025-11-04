@@ -1,0 +1,23 @@
+# gcp-os-config-patch-policy.yaml
+# Automated patch deployment scheduler utilizing GCP VM Manager
+id: "fedex-monthly-patch-policy"
+description: "Automated RHEL guest OS patching schedule"
+project: "greenfield-migration-prod-109"
+patchConfig:
+  rebootConfig: "DEFAULT"
+  yum:
+    security: true
+    minimal: true
+  apt:
+    type: "DIST"
+duration: "7200s"
+recurringSchedule:
+  timeZone:
+    id: "America/New_York"
+  timeOfDay:
+    hours: 2
+    minutes: 0
+  weekly:
+    dayOfWeek: "SUNDAY"
+
+# created by @jsaccomani
