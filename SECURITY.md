@@ -11,3 +11,5 @@ If you identify a security issue, send an email directly to jsaccomani@google.co
 Your report will be evaluated and responded to as soon as possible.
 
 <!-- Checkpoint: 2025-11-18 - sec(pci-isolation): implement PCI-DSS tenant isolation rules in customer GCVE private cloud -->
+
+<!-- Checkpoint: 2025-11-18 - feat(bastion-iam): enforce context-aware IAP access to client GCVE management consoles -->
