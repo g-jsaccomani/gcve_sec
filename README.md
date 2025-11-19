@@ -45,3 +45,5 @@ gcve_sec/
 **LinkedIn:** [linkedin.com/in/jsaccomani](https://www.linkedin.com/in/jsaccomani)
 *Copyright © 2026 Google LLC / Joabson Saccomani. All rights reserved. Distributed under the Apache License 2.0.*
 
+
+<!-- Checkpoint: 2025-11-19 - sec(nsx-t): deploy micro-segmentation firewall rules for customer core banking tier -->
