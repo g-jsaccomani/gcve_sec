@@ -57,3 +57,5 @@ This guide outlines reference architectural recommendations for security, networ
 
 
 <!-- Checkpoint: 2025-11-17 - feat(vcenter-sso): streamline vCenter SSO integration with Google Cloud Identity for client admins -->
+
+<!-- Checkpoint: 2025-11-20 - feat(network-rules): configure distributed IDS/IPS profiles for external client migration -->
