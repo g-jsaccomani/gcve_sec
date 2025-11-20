@@ -47,3 +47,5 @@ gcve_sec/
 
 
 <!-- Checkpoint: 2025-11-19 - sec(nsx-t): deploy micro-segmentation firewall rules for customer core banking tier -->
+
+<!-- Checkpoint: 2025-11-20 - docs(architecture): update hybrid connectivity security baseline for client architecture board -->
