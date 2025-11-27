@@ -63,3 +63,5 @@ This guide outlines reference architectural recommendations for security, networ
 <!-- Checkpoint: 2025-11-21 - sec(pci-isolation): implement PCI-DSS tenant isolation rules in customer GCVE private cloud -->
 
 <!-- Checkpoint: 2025-11-24 - sec(nsx-t): deploy micro-segmentation firewall rules for customer core banking tier -->
+
+<!-- Checkpoint: 2025-11-27 - feat(vcenter-sso): streamline vCenter SSO integration with Google Cloud Identity for client admins -->
