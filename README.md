@@ -49,3 +49,5 @@ gcve_sec/
 <!-- Checkpoint: 2025-11-19 - sec(nsx-t): deploy micro-segmentation firewall rules for customer core banking tier -->
 
 <!-- Checkpoint: 2025-11-20 - docs(architecture): update hybrid connectivity security baseline for client architecture board -->
+
+<!-- Checkpoint: 2025-11-27 - sec(pci-isolation): implement PCI-DSS tenant isolation rules in customer GCVE private cloud -->
