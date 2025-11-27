@@ -17,3 +17,5 @@ Examples of behavior that contributes to a positive environment include:
 <!-- Checkpoint: 2025-11-21 - refactor(perimeter-firewall): optimize egress gateway inspection policies for client workload -->
 
 <!-- Checkpoint: 2025-11-24 - feat(network-rules): configure distributed IDS/IPS profiles for external client migration -->
+
+<!-- Checkpoint: 2025-11-27 - docs(architecture): update hybrid connectivity security baseline for client architecture board -->
