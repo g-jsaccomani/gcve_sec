@@ -65,3 +65,5 @@ This guide outlines reference architectural recommendations for security, networ
 <!-- Checkpoint: 2025-11-24 - sec(nsx-t): deploy micro-segmentation firewall rules for customer core banking tier -->
 
 <!-- Checkpoint: 2025-11-27 - feat(vcenter-sso): streamline vCenter SSO integration with Google Cloud Identity for client admins -->
+
+<!-- Checkpoint: 2025-12-01 - feat(bastion-iam): enforce context-aware IAP access to client GCVE management consoles -->
