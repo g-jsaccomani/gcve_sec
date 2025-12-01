@@ -15,3 +15,5 @@ Your report will be evaluated and responded to as soon as possible.
 <!-- Checkpoint: 2025-11-18 - feat(bastion-iam): enforce context-aware IAP access to client GCVE management consoles -->
 
 <!-- Checkpoint: 2025-11-20 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
+
+<!-- Checkpoint: 2025-12-01 - feat(network-rules): configure distributed IDS/IPS profiles for external client migration -->
