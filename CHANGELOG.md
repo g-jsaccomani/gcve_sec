@@ -89,3 +89,6 @@ All notable changes and security updates recorded below.
 ### [2025-12-07] sec(nsx-t): deploy micro-segmentation firewall rules for customer core banking tier
 - Designed and implemented distributed firewall (DFW) security groups in NSX-T manager.
 
+### [2025-12-07] feat(network-rules): configure distributed IDS/IPS profiles for external client migration
+- Enabled NSX-T signature-based IDS/IPS inspection on all east-west traffic between GCVE VMs.
+
