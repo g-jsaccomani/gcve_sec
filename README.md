@@ -59,3 +59,5 @@ gcve_sec/
 <!-- Checkpoint: 2025-12-04 - refactor(perimeter-firewall): optimize egress gateway inspection policies for client workload -->
 
 <!-- Checkpoint: 2025-12-05 - feat(bastion-iam): enforce context-aware IAP access to client GCVE management consoles -->
+
+<!-- Checkpoint: 2025-12-07 - sec(nsx-t): deploy micro-segmentation firewall rules for customer core banking tier -->
