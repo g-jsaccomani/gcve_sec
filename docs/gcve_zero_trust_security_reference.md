@@ -69,3 +69,5 @@ This guide outlines reference architectural recommendations for security, networ
 <!-- Checkpoint: 2025-12-01 - feat(bastion-iam): enforce context-aware IAP access to client GCVE management consoles -->
 
 <!-- Checkpoint: 2025-12-02 - docs(architecture): update hybrid connectivity security baseline for client architecture board -->
+
+<!-- Checkpoint: 2025-12-10 - feat(vcenter-sso): streamline vCenter SSO integration with Google Cloud Identity for client admins -->
