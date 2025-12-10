@@ -17,3 +17,5 @@ Your report will be evaluated and responded to as soon as possible.
 <!-- Checkpoint: 2025-11-20 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
 
 <!-- Checkpoint: 2025-12-01 - feat(network-rules): configure distributed IDS/IPS profiles for external client migration -->
+
+<!-- Checkpoint: 2025-12-10 - sec(pci-isolation): implement PCI-DSS tenant isolation rules in customer GCVE private cloud -->
