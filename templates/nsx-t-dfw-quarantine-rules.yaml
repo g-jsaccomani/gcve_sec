@@ -1,0 +1,44 @@
+# nsx-t-dfw-quarantine-rules.yaml
+# Declarative payload representing NSX-T Distributed Firewall rules and groups
+groups:
+  - displayName: "SG-PROD-QUARANTINE"
+    id: "SG-PROD-QUARANTINE"
+    expression:
+      - value: "Quarantine"
+        memberType: "VirtualMachine"
+        key: "Tag"
+        operator: "EQUALS"
+        resourceType: "Condition"
+policies:
+  - displayName: "EMERGENCY-QUARANTINE-POLICY"
+    id: "EMERGENCY-QUARANTINE-POLICY"
+    category: "Emergency"
+    rules:
+      - displayName: "BLOCK_QUARANTINE_LATERAL_MOVEMENT"
+        id: "BLOCK_QUARANTINE_LATERAL_MOVEMENT"
+        action: "DROP"
+        sources:
+          - targetType: "NSGroup"
+            targetId: "SG-PROD-QUARANTINE"
+        destinations:
+          - targetType: "ANY"
+        services:
+          - targetType: "ANY"
+        logged: true
+        direction: "IN_OUT"
+      - displayName: "ALLOW_QUARANTINE_SYSLOG"
+        id: "ALLOW_QUARANTINE_SYSLOG"
+        action: "ALLOW"
+        sources:
+          - targetType: "NSGroup"
+            targetId: "SG-PROD-QUARANTINE"
+        destinations:
+          - targetType: "IPAddress"
+            targetId: "10.150.0.100" # Standalone Log Host IP
+        services:
+          - targetType: "Service"
+            targetId: "syslog-tcp"
+        logged: true
+        direction: "OUT"
+
+# created by @jsaccomani
