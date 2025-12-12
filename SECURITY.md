@@ -19,3 +19,5 @@ Your report will be evaluated and responded to as soon as possible.
 <!-- Checkpoint: 2025-12-01 - feat(network-rules): configure distributed IDS/IPS profiles for external client migration -->
 
 <!-- Checkpoint: 2025-12-10 - sec(pci-isolation): implement PCI-DSS tenant isolation rules in customer GCVE private cloud -->
+
+<!-- Checkpoint: 2025-12-12 - sec(nsx-t): deploy micro-segmentation firewall rules for customer core banking tier -->
