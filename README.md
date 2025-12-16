@@ -65,3 +65,5 @@ gcve_sec/
 <!-- Checkpoint: 2025-12-08 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
 
 <!-- Checkpoint: 2025-12-12 - feat(bastion-iam): enforce context-aware IAP access to client GCVE management consoles -->
+
+<!-- Checkpoint: 2025-12-16 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
