@@ -140,3 +140,6 @@ All notable changes and security updates recorded below.
 ### [2025-12-23] feat(network-rules): configure distributed IDS/IPS profiles for external client migration
 - Enabled NSX-T signature-based IDS/IPS inspection on all east-west traffic between GCVE VMs.
 
+### [2025-12-24] fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client
+- Resolved packet fragmentation and handshake latency over Cloud Interconnect with client on-prem DC.
+
