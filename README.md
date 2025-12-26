@@ -69,3 +69,5 @@ gcve_sec/
 <!-- Checkpoint: 2025-12-16 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
 
 <!-- Checkpoint: 2025-12-25 - docs(architecture): update hybrid connectivity security baseline for client architecture board -->
+
+<!-- Checkpoint: 2025-12-26 - sec(pci-isolation): implement PCI-DSS tenant isolation rules in customer GCVE private cloud -->
