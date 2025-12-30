@@ -71,3 +71,5 @@ gcve_sec/
 <!-- Checkpoint: 2025-12-25 - docs(architecture): update hybrid connectivity security baseline for client architecture board -->
 
 <!-- Checkpoint: 2025-12-26 - sec(pci-isolation): implement PCI-DSS tenant isolation rules in customer GCVE private cloud -->
+
+<!-- Checkpoint: 2025-12-30 - feat(network-rules): configure distributed IDS/IPS profiles for external client migration -->
