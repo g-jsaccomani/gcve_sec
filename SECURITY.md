@@ -27,3 +27,5 @@ Your report will be evaluated and responded to as soon as possible.
 <!-- Checkpoint: 2025-12-23 - sec(nsx-t): deploy micro-segmentation firewall rules for customer core banking tier -->
 
 <!-- Checkpoint: 2025-12-24 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
+
+<!-- Checkpoint: 2025-12-30 - feat(bastion-iam): enforce context-aware IAP access to client GCVE management consoles -->
