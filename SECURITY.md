@@ -29,3 +29,5 @@ Your report will be evaluated and responded to as soon as possible.
 <!-- Checkpoint: 2025-12-24 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
 
 <!-- Checkpoint: 2025-12-30 - feat(bastion-iam): enforce context-aware IAP access to client GCVE management consoles -->
+
+<!-- Checkpoint: 2026-01-01 - docs(architecture): update hybrid connectivity security baseline for client architecture board -->
