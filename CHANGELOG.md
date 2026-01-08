@@ -8,3 +8,6 @@ All notable changes and security updates recorded below.
 ### [2025-12-11] sec(nsx-t): configure NSX-T distributed firewall quarantine rules and micro-segmentation
 - Completed milestone deliverables and technical verification.
 
+### [2026-01-08] test(tdd): define test-driven security specifications and verification test cases
+- Completed milestone deliverables and technical verification.
+
