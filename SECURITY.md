@@ -33,3 +33,5 @@ Your report will be evaluated and responded to as soon as possible.
 <!-- Checkpoint: 2026-01-01 - docs(architecture): update hybrid connectivity security baseline for client architecture board -->
 
 <!-- Checkpoint: 2026-01-05 - feat(vcenter-sso): streamline vCenter SSO integration with Google Cloud Identity for client admins -->
+
+<!-- Checkpoint: 2026-01-09 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
