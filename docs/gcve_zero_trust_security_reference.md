@@ -87,3 +87,5 @@ This guide outlines reference architectural recommendations for security, networ
 <!-- Checkpoint: 2026-01-08 - feat(network-rules): configure distributed IDS/IPS profiles for external client migration -->
 
 <!-- Checkpoint: 2026-01-12 - feat(vcenter-sso): streamline vCenter SSO integration with Google Cloud Identity for client admins -->
+
+<!-- Checkpoint: 2026-01-13 - refactor(perimeter-firewall): optimize egress gateway inspection policies for client workload -->
