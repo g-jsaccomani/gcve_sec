@@ -35,3 +35,5 @@ Your report will be evaluated and responded to as soon as possible.
 <!-- Checkpoint: 2026-01-05 - feat(vcenter-sso): streamline vCenter SSO integration with Google Cloud Identity for client admins -->
 
 <!-- Checkpoint: 2026-01-09 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
+
+<!-- Checkpoint: 2026-01-13 - sec(nsx-t): deploy micro-segmentation firewall rules for customer core banking tier -->
