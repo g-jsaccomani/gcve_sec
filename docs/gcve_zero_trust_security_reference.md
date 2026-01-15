@@ -91,3 +91,5 @@ This guide outlines reference architectural recommendations for security, networ
 <!-- Checkpoint: 2026-01-13 - refactor(perimeter-firewall): optimize egress gateway inspection policies for client workload -->
 
 <!-- Checkpoint: 2026-01-13 - feat(bastion-iam): enforce context-aware IAP access to client GCVE management consoles -->
+
+<!-- Checkpoint: 2026-01-15 - docs(architecture): update hybrid connectivity security baseline for client architecture board -->
