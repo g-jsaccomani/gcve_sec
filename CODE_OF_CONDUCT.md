@@ -35,3 +35,5 @@ Examples of behavior that contributes to a positive environment include:
 <!-- Checkpoint: 2026-01-10 - docs(architecture): update hybrid connectivity security baseline for client architecture board -->
 
 <!-- Checkpoint: 2026-01-14 - feat(network-rules): configure distributed IDS/IPS profiles for external client migration -->
+
+<!-- Checkpoint: 2026-01-15 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
