@@ -77,3 +77,5 @@ gcve_sec/
 <!-- Checkpoint: 2026-01-06 - sec(pci-isolation): implement PCI-DSS tenant isolation rules in customer GCVE private cloud -->
 
 <!-- Checkpoint: 2026-01-07 - feat(bastion-iam): enforce context-aware IAP access to client GCVE management consoles -->
+
+<!-- Checkpoint: 2026-01-18 - refactor(perimeter-firewall): optimize egress gateway inspection policies for client workload -->
