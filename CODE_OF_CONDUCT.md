@@ -39,3 +39,5 @@ Examples of behavior that contributes to a positive environment include:
 <!-- Checkpoint: 2026-01-15 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
 
 <!-- Checkpoint: 2026-01-19 - sec(nsx-t): deploy micro-segmentation firewall rules for customer core banking tier -->
+
+<!-- Checkpoint: 2026-01-19 - feat(network-rules): configure distributed IDS/IPS profiles for external client migration -->
