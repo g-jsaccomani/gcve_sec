@@ -41,3 +41,5 @@ Your report will be evaluated and responded to as soon as possible.
 <!-- Checkpoint: 2026-01-16 - feat(vcenter-sso): streamline vCenter SSO integration with Google Cloud Identity for client admins -->
 
 <!-- Checkpoint: 2026-01-17 - sec(pci-isolation): implement PCI-DSS tenant isolation rules in customer GCVE private cloud -->
+
+<!-- Checkpoint: 2026-01-21 - sec(pci-isolation): implement PCI-DSS tenant isolation rules in customer GCVE private cloud -->
