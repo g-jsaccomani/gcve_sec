@@ -83,3 +83,5 @@ gcve_sec/
 <!-- Checkpoint: 2026-01-18 - feat(bastion-iam): enforce context-aware IAP access to client GCVE management consoles -->
 
 <!-- Checkpoint: 2026-01-20 - docs(architecture): update hybrid connectivity security baseline for client architecture board -->
+
+<!-- Checkpoint: 2026-01-21 - feat(vcenter-sso): streamline vCenter SSO integration with Google Cloud Identity for client admins -->
