@@ -95,3 +95,5 @@ This guide outlines reference architectural recommendations for security, networ
 <!-- Checkpoint: 2026-01-15 - docs(architecture): update hybrid connectivity security baseline for client architecture board -->
 
 <!-- Checkpoint: 2026-01-20 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
+
+<!-- Checkpoint: 2026-01-23 - refactor(perimeter-firewall): optimize egress gateway inspection policies for client workload -->
