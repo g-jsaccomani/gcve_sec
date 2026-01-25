@@ -43,3 +43,5 @@ Examples of behavior that contributes to a positive environment include:
 <!-- Checkpoint: 2026-01-19 - feat(network-rules): configure distributed IDS/IPS profiles for external client migration -->
 
 <!-- Checkpoint: 2026-01-23 - feat(bastion-iam): enforce context-aware IAP access to client GCVE management consoles -->
+
+<!-- Checkpoint: 2026-01-25 - feat(network-rules): configure distributed IDS/IPS profiles for external client migration -->
