@@ -11,3 +11,6 @@ All notable changes and security updates recorded below.
 ### [2026-01-08] test(tdd): define test-driven security specifications and verification test cases
 - Completed milestone deliverables and technical verification.
 
+### [2026-01-29] sec(iam): configure GCP custom IAM roles for administrative separation of duties
+- Completed milestone deliverables and technical verification.
+

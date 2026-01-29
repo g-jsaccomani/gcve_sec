@@ -1,0 +1,18 @@
+# gcp-iam-custom-roles.yaml
+# Declarative custom GCP IAM role for granular, audited administrative access
+title: "GCVE Platform Operator"
+description: "Granular read-only access for GCVE operators"
+stage: "GA"
+includedPermissions:
+  - "vmwareengine.clusters.get"
+  - "vmwareengine.clusters.list"
+  - "vmwareengine.datastores.get"
+  - "vmwareengine.datastores.list"
+  - "vmwareengine.loggingServers.get"
+  - "vmwareengine.loggingServers.list"
+  - "vmwareengine.privateClouds.get"
+  - "vmwareengine.privateClouds.list"
+  - "vmwareengine.subnets.get"
+  - "vmwareengine.subnets.list"
+
+# created by @jsaccomani
