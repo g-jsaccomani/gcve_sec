@@ -95,3 +95,5 @@ gcve_sec/
 <!-- Checkpoint: 2026-01-30 - feat(network-rules): configure distributed IDS/IPS profiles for external client migration -->
 
 <!-- Checkpoint: 2026-02-02 - docs(architecture): update hybrid connectivity security baseline for client architecture board -->
+
+<!-- Checkpoint: 2026-02-02 - feat(vcenter-sso): streamline vCenter SSO integration with Google Cloud Identity for client admins -->
