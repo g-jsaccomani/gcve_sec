@@ -103,3 +103,5 @@ gcve_sec/
 <!-- Checkpoint: 2026-02-09 - docs(architecture): update hybrid connectivity security baseline for client architecture board -->
 
 <!-- Checkpoint: 2026-02-09 - feat(vcenter-sso): streamline vCenter SSO integration with Google Cloud Identity for client admins -->
+
+<!-- Checkpoint: 2026-02-10 - refactor(perimeter-firewall): optimize egress gateway inspection policies for client workload -->
