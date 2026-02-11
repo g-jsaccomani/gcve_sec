@@ -55,3 +55,5 @@ Examples of behavior that contributes to a positive environment include:
 <!-- Checkpoint: 2026-01-29 - sec(nsx-t): deploy micro-segmentation firewall rules for customer core banking tier -->
 
 <!-- Checkpoint: 2026-02-02 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
+
+<!-- Checkpoint: 2026-02-11 - feat(bastion-iam): enforce context-aware IAP access to client GCVE management consoles -->
