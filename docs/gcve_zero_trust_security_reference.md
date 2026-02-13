@@ -101,3 +101,5 @@ This guide outlines reference architectural recommendations for security, networ
 <!-- Checkpoint: 2026-02-06 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
 
 <!-- Checkpoint: 2026-02-09 - sec(pci-isolation): implement PCI-DSS tenant isolation rules in customer GCVE private cloud -->
+
+<!-- Checkpoint: 2026-02-13 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
