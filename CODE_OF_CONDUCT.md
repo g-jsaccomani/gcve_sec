@@ -57,3 +57,5 @@ Examples of behavior that contributes to a positive environment include:
 <!-- Checkpoint: 2026-02-02 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
 
 <!-- Checkpoint: 2026-02-11 - feat(bastion-iam): enforce context-aware IAP access to client GCVE management consoles -->
+
+<!-- Checkpoint: 2026-02-12 - feat(network-rules): configure distributed IDS/IPS profiles for external client migration -->
