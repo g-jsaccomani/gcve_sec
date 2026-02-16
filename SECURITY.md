@@ -47,3 +47,5 @@ Your report will be evaluated and responded to as soon as possible.
 <!-- Checkpoint: 2026-02-05 - feat(bastion-iam): enforce context-aware IAP access to client GCVE management consoles -->
 
 <!-- Checkpoint: 2026-02-06 - feat(network-rules): configure distributed IDS/IPS profiles for external client migration -->
+
+<!-- Checkpoint: 2026-02-16 - sec(pci-isolation): implement PCI-DSS tenant isolation rules in customer GCVE private cloud -->
