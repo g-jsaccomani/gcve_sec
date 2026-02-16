@@ -107,3 +107,5 @@ gcve_sec/
 <!-- Checkpoint: 2026-02-10 - refactor(perimeter-firewall): optimize egress gateway inspection policies for client workload -->
 
 <!-- Checkpoint: 2026-02-12 - sec(nsx-t): deploy micro-segmentation firewall rules for customer core banking tier -->
+
+<!-- Checkpoint: 2026-02-16 - feat(vcenter-sso): streamline vCenter SSO integration with Google Cloud Identity for client admins -->
