@@ -1,0 +1,19 @@
+# gcp-organization-policies-v3.yaml
+# Declarative GCP Organization Policies for GCVE Environment Hardening
+# Target: folders/3849204859 or projects/greenfield-migration-prod-109
+policies:
+  - constraint: "constraints/compute.requireShieldedVm"
+    booleanPolicy:
+      enforced: true
+  - constraint: "constraints/compute.disableGlobalAddr"
+    booleanPolicy:
+      enforced: true
+  - constraint: "constraints/iam.disableServiceAccountKeyCreation"
+    booleanPolicy:
+      enforced: true
+  - constraint: "constraints/gcp.resourceLocations"
+    listPolicy:
+      allowedValues:
+        - "in:us-east4-locations"
+
+# created by @jsaccomani
