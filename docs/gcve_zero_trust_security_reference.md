@@ -105,3 +105,5 @@ This guide outlines reference architectural recommendations for security, networ
 <!-- Checkpoint: 2026-02-13 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
 
 <!-- Checkpoint: 2026-02-18 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
+
+<!-- Checkpoint: 2026-02-19 - docs(architecture): update hybrid connectivity security baseline for client architecture board -->
