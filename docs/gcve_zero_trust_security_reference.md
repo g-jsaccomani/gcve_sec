@@ -111,3 +111,5 @@ This guide outlines reference architectural recommendations for security, networ
 <!-- Checkpoint: 2026-02-19 - feat(vcenter-sso): streamline vCenter SSO integration with Google Cloud Identity for client admins -->
 
 <!-- Checkpoint: 2026-02-20 - sec(pci-isolation): implement PCI-DSS tenant isolation rules in customer GCVE private cloud -->
+
+<!-- Checkpoint: 2026-02-26 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
