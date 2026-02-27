@@ -53,3 +53,5 @@ Your report will be evaluated and responded to as soon as possible.
 <!-- Checkpoint: 2026-02-17 - feat(network-rules): configure distributed IDS/IPS profiles for external client migration -->
 
 <!-- Checkpoint: 2026-02-20 - feat(bastion-iam): enforce context-aware IAP access to client GCVE management consoles -->
+
+<!-- Checkpoint: 2026-02-27 - feat(vcenter-sso): streamline vCenter SSO integration with Google Cloud Identity for client admins -->
