@@ -113,3 +113,5 @@ gcve_sec/
 <!-- Checkpoint: 2026-02-17 - refactor(perimeter-firewall): optimize egress gateway inspection policies for client workload -->
 
 <!-- Checkpoint: 2026-02-26 - docs(architecture): update hybrid connectivity security baseline for client architecture board -->
+
+<!-- Checkpoint: 2026-03-01 - sec(nsx-t): deploy micro-segmentation firewall rules for customer core banking tier -->
