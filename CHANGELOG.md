@@ -410,3 +410,6 @@ All notable changes and security updates recorded below.
 ### [2026-03-04] docs(architecture): update hybrid connectivity security baseline for client architecture board
 - Documented enterprise architecture diagram for GCVE interconnectivity with GCP VPC.
 
+### [2026-03-04] feat(vcenter-sso): streamline vCenter SSO integration with Google Cloud Identity for client admins
+- Configured SAML 2.0 federated identity provider between Google Workspace and VMware vCenter.
+
