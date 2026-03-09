@@ -117,3 +117,5 @@ This guide outlines reference architectural recommendations for security, networ
 <!-- Checkpoint: 2026-03-04 - feat(vcenter-sso): streamline vCenter SSO integration with Google Cloud Identity for client admins -->
 
 <!-- Checkpoint: 2026-03-09 - refactor(perimeter-firewall): optimize egress gateway inspection policies for client workload -->
+
+<!-- Checkpoint: 2026-03-09 - feat(bastion-iam): enforce context-aware IAP access to client GCVE management consoles -->
