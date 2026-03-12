@@ -17,3 +17,6 @@ All notable changes and security updates recorded below.
 ### [2026-02-19] sec(org-policies): enforce organization security constraints and baseline guardrails
 - Completed milestone deliverables and technical verification.
 
+### [2026-03-12] sec(perimeter): configure VPC Service Controls perimeter and private DNS zones
+- Completed milestone deliverables and technical verification.
+

@@ -1,0 +1,30 @@
+# gcp-vpc-sc-perimeter.yaml
+# VPC Service Controls Regular Security Perimeter configuration
+# Access Policy: accessPolicies/123456789012
+perimeter:
+  name: "accessPolicies/123456789012/servicePerimeters/enterprise_security_perimeter"
+  title: "Enterprise Security Perimeter"
+  description: "Protects GCVE and sensitive data storage projects"
+  status:
+    resources:
+      - "projects/102948573625" # GCVE Host Project
+      - "projects/908172635412" # Storage Project (GCS/BigQuery)
+    restrictedServices:
+      - "vmwareengine.googleapis.com"
+      - "storage.googleapis.com"
+      - "bigquery.googleapis.com"
+    ingressPolicies:
+      - ingressFrom:
+          identities:
+            - "serviceAccount:automation-ci-cd@greenfield-migration-prod-109.iam.gserviceaccount.com"
+          sources:
+            accessLevel: "accessPolicies/123456789012/accessLevels/trusted_networks"
+        ingressTo:
+          resources:
+            - "*"
+          operations:
+            serviceName: "vmwareengine.googleapis.com"
+            methodSelectors:
+              - method: "*"
+
+# created by @jsaccomani

@@ -1,0 +1,18 @@
+# gcp-private-dns-zones.yaml
+# Private Cloud DNS Zone configurations for private resolution of management appliances
+dnsZones:
+  - name: "gcve-private-dns-zone"
+    dnsName: "gve.goog."
+    description: "Private forwarding zone for GCVE management engines"
+    visibility: "PRIVATE"
+    networks:
+      - "https://www.googleapis.com/compute/v1/projects/greenfield-migration-prod-109/global/networks/enterprise-transit-vpc"
+    privateVisibilityConfig:
+      networks:
+        - networkUrl: "https://www.googleapis.com/compute/v1/projects/greenfield-migration-prod-109/global/networks/enterprise-transit-vpc"
+    forwardingConfig:
+      targetNameServers:
+        - ipv4Address: "10.150.0.5" # Primary GCVE DNS Server
+        - ipv4Address: "10.150.0.6" # Secondary GCVE DNS Server
+
+# created by @jsaccomani
