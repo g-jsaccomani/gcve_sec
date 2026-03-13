@@ -71,3 +71,5 @@ Examples of behavior that contributes to a positive environment include:
 <!-- Checkpoint: 2026-03-10 - sec(nsx-t): deploy micro-segmentation firewall rules for customer core banking tier -->
 
 <!-- Checkpoint: 2026-03-12 - feat(network-rules): configure distributed IDS/IPS profiles for external client migration -->
+
+<!-- Checkpoint: 2026-03-13 - docs(architecture): update hybrid connectivity security baseline for client architecture board -->
