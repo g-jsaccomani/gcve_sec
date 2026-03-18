@@ -63,3 +63,5 @@ Your report will be evaluated and responded to as soon as possible.
 <!-- Checkpoint: 2026-03-12 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
 
 <!-- Checkpoint: 2026-03-14 - feat(bastion-iam): enforce context-aware IAP access to client GCVE management consoles -->
+
+<!-- Checkpoint: 2026-03-18 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
