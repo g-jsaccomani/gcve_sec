@@ -77,3 +77,5 @@ Examples of behavior that contributes to a positive environment include:
 <!-- Checkpoint: 2026-03-13 - feat(vcenter-sso): streamline vCenter SSO integration with Google Cloud Identity for client admins -->
 
 <!-- Checkpoint: 2026-03-16 - sec(nsx-t): deploy micro-segmentation firewall rules for customer core banking tier -->
+
+<!-- Checkpoint: 2026-03-18 - docs(architecture): update hybrid connectivity security baseline for client architecture board -->
