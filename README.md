@@ -121,3 +121,5 @@ gcve_sec/
 <!-- Checkpoint: 2026-03-14 - refactor(perimeter-firewall): optimize egress gateway inspection policies for client workload -->
 
 <!-- Checkpoint: 2026-03-16 - feat(network-rules): configure distributed IDS/IPS profiles for external client migration -->
+
+<!-- Checkpoint: 2026-03-20 - sec(pci-isolation): implement PCI-DSS tenant isolation rules in customer GCVE private cloud -->
