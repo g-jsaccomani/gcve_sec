@@ -121,3 +121,5 @@ This guide outlines reference architectural recommendations for security, networ
 <!-- Checkpoint: 2026-03-09 - feat(bastion-iam): enforce context-aware IAP access to client GCVE management consoles -->
 
 <!-- Checkpoint: 2026-03-13 - sec(pci-isolation): implement PCI-DSS tenant isolation rules in customer GCVE private cloud -->
+
+<!-- Checkpoint: 2026-03-25 - feat(vcenter-sso): streamline vCenter SSO integration with Google Cloud Identity for client admins -->
