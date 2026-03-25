@@ -69,3 +69,5 @@ Your report will be evaluated and responded to as soon as possible.
 <!-- Checkpoint: 2026-03-23 - sec(nsx-t): deploy micro-segmentation firewall rules for customer core banking tier -->
 
 <!-- Checkpoint: 2026-03-24 - feat(network-rules): configure distributed IDS/IPS profiles for external client migration -->
+
+<!-- Checkpoint: 2026-03-25 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
