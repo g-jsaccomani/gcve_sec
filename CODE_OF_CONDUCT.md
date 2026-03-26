@@ -83,3 +83,5 @@ Examples of behavior that contributes to a positive environment include:
 <!-- Checkpoint: 2026-03-25 - docs(architecture): update hybrid connectivity security baseline for client architecture board -->
 
 <!-- Checkpoint: 2026-03-26 - refactor(perimeter-firewall): optimize egress gateway inspection policies for client workload -->
+
+<!-- Checkpoint: 2026-03-26 - feat(bastion-iam): enforce context-aware IAP access to client GCVE management consoles -->
