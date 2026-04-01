@@ -127,3 +127,5 @@ gcve_sec/
 <!-- Checkpoint: 2026-03-20 - refactor(perimeter-firewall): optimize egress gateway inspection policies for client workload -->
 
 <!-- Checkpoint: 2026-03-23 - feat(bastion-iam): enforce context-aware IAP access to client GCVE management consoles -->
+
+<!-- Checkpoint: 2026-03-31 - feat(bastion-iam): enforce context-aware IAP access to client GCVE management consoles -->
