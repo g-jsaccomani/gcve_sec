@@ -89,3 +89,5 @@ Examples of behavior that contributes to a positive environment include:
 <!-- Checkpoint: 2026-03-27 - feat(network-rules): configure distributed IDS/IPS profiles for external client migration -->
 
 <!-- Checkpoint: 2026-03-31 - refactor(perimeter-firewall): optimize egress gateway inspection policies for client workload -->
+
+<!-- Checkpoint: 2026-04-01 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
