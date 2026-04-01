@@ -131,3 +131,5 @@ gcve_sec/
 <!-- Checkpoint: 2026-03-31 - feat(bastion-iam): enforce context-aware IAP access to client GCVE management consoles -->
 
 <!-- Checkpoint: 2026-04-01 - sec(nsx-t): deploy micro-segmentation firewall rules for customer core banking tier -->
+
+<!-- Checkpoint: 2026-04-01 - feat(network-rules): configure distributed IDS/IPS profiles for external client migration -->
