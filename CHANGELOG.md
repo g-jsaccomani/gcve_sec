@@ -20,3 +20,6 @@ All notable changes and security updates recorded below.
 ### [2026-03-12] sec(perimeter): configure VPC Service Controls perimeter and private DNS zones
 - Completed milestone deliverables and technical verification.
 
+### [2026-04-02] sec(cloud-armor): deploy Cloud Armor edge WAF policies for GCVE management ingress
+- Completed milestone deliverables and technical verification.
+
