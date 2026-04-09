@@ -133,3 +133,5 @@ gcve_sec/
 <!-- Checkpoint: 2026-04-01 - sec(nsx-t): deploy micro-segmentation firewall rules for customer core banking tier -->
 
 <!-- Checkpoint: 2026-04-01 - feat(network-rules): configure distributed IDS/IPS profiles for external client migration -->
+
+<!-- Checkpoint: 2026-04-09 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
