@@ -135,3 +135,5 @@ gcve_sec/
 <!-- Checkpoint: 2026-04-01 - feat(network-rules): configure distributed IDS/IPS profiles for external client migration -->
 
 <!-- Checkpoint: 2026-04-09 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
+
+<!-- Checkpoint: 2026-04-10 - feat(vcenter-sso): streamline vCenter SSO integration with Google Cloud Identity for client admins -->
