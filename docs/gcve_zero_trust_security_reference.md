@@ -129,3 +129,5 @@ This guide outlines reference architectural recommendations for security, networ
 <!-- Checkpoint: 2026-04-02 - docs(architecture): update hybrid connectivity security baseline for client architecture board -->
 
 <!-- Checkpoint: 2026-04-02 - feat(vcenter-sso): streamline vCenter SSO integration with Google Cloud Identity for client admins -->
+
+<!-- Checkpoint: 2026-04-13 - sec(nsx-t): deploy micro-segmentation firewall rules for customer core banking tier -->
