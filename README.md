@@ -139,3 +139,5 @@ gcve_sec/
 <!-- Checkpoint: 2026-04-10 - feat(vcenter-sso): streamline vCenter SSO integration with Google Cloud Identity for client admins -->
 
 <!-- Checkpoint: 2026-04-13 - feat(bastion-iam): enforce context-aware IAP access to client GCVE management consoles -->
+
+<!-- Checkpoint: 2026-04-14 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
