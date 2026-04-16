@@ -95,3 +95,5 @@ Examples of behavior that contributes to a positive environment include:
 <!-- Checkpoint: 2026-04-07 - feat(bastion-iam): enforce context-aware IAP access to client GCVE management consoles -->
 
 <!-- Checkpoint: 2026-04-15 - feat(vcenter-sso): streamline vCenter SSO integration with Google Cloud Identity for client admins -->
+
+<!-- Checkpoint: 2026-04-16 - refactor(perimeter-firewall): optimize egress gateway inspection policies for client workload -->
