@@ -89,3 +89,5 @@ Your report will be evaluated and responded to as soon as possible.
 <!-- Checkpoint: 2026-04-13 - refactor(perimeter-firewall): optimize egress gateway inspection policies for client workload -->
 
 <!-- Checkpoint: 2026-04-14 - docs(architecture): update hybrid connectivity security baseline for client architecture board -->
+
+<!-- Checkpoint: 2026-04-17 - feat(network-rules): configure distributed IDS/IPS profiles for external client migration -->
