@@ -23,3 +23,6 @@ All notable changes and security updates recorded below.
 ### [2026-04-02] sec(cloud-armor): deploy Cloud Armor edge WAF policies for GCVE management ingress
 - Completed milestone deliverables and technical verification.
 
+### [2026-04-23] sec(compute): configure OS Config patch policies and SSH daemon hardening profiles
+- Completed milestone deliverables and technical verification.
+
