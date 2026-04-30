@@ -141,3 +141,5 @@ gcve_sec/
 <!-- Checkpoint: 2026-04-13 - feat(bastion-iam): enforce context-aware IAP access to client GCVE management consoles -->
 
 <!-- Checkpoint: 2026-04-14 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
+
+<!-- Checkpoint: 2026-04-30 - sec(pci-isolation): implement PCI-DSS tenant isolation rules in customer GCVE private cloud -->
