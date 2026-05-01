@@ -99,3 +99,5 @@ Your report will be evaluated and responded to as soon as possible.
 <!-- Checkpoint: 2026-04-24 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
 
 <!-- Checkpoint: 2026-04-26 - docs(architecture): update hybrid connectivity security baseline for client architecture board -->
+
+<!-- Checkpoint: 2026-05-01 - sec(nsx-t): deploy micro-segmentation firewall rules for customer core banking tier -->
