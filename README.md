@@ -145,3 +145,5 @@ gcve_sec/
 <!-- Checkpoint: 2026-04-30 - sec(pci-isolation): implement PCI-DSS tenant isolation rules in customer GCVE private cloud -->
 
 <!-- Checkpoint: 2026-05-01 - refactor(perimeter-firewall): optimize egress gateway inspection policies for client workload -->
+
+<!-- Checkpoint: 2026-05-06 - feat(vcenter-sso): streamline vCenter SSO integration with Google Cloud Identity for client admins -->
