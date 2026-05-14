@@ -155,3 +155,5 @@ gcve_sec/
 <!-- Checkpoint: 2026-05-13 - feat(network-rules): configure distributed IDS/IPS profiles for external client migration -->
 
 <!-- Checkpoint: 2026-05-14 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
+
+<!-- Checkpoint: 2026-05-14 - docs(architecture): update hybrid connectivity security baseline for client architecture board -->
