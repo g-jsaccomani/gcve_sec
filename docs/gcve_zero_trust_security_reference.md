@@ -143,3 +143,5 @@ This guide outlines reference architectural recommendations for security, networ
 <!-- Checkpoint: 2026-05-04 - feat(network-rules): configure distributed IDS/IPS profiles for external client migration -->
 
 <!-- Checkpoint: 2026-05-07 - sec(pci-isolation): implement PCI-DSS tenant isolation rules in customer GCVE private cloud -->
+
+<!-- Checkpoint: 2026-05-18 - sec(nsx-t): deploy micro-segmentation firewall rules for customer core banking tier -->
