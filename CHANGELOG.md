@@ -680,3 +680,6 @@ All notable changes and security updates recorded below.
 ### [2026-05-15] sec(pci-isolation): implement PCI-DSS tenant isolation rules in customer GCVE private cloud
 - Configured dedicated compute clusters and isolated VLAN segments for cardholder data environment (CDE).
 
+### [2026-05-18] refactor(perimeter-firewall): optimize egress gateway inspection policies for client workload
+- Standardized NAT gateway and next-generation firewall routing for internet-bound GCVE traffic.
+
