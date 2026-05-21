@@ -159,3 +159,5 @@ gcve_sec/
 <!-- Checkpoint: 2026-05-14 - docs(architecture): update hybrid connectivity security baseline for client architecture board -->
 
 <!-- Checkpoint: 2026-05-18 - feat(bastion-iam): enforce context-aware IAP access to client GCVE management consoles -->
+
+<!-- Checkpoint: 2026-05-21 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
