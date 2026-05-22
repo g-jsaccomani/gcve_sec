@@ -113,3 +113,5 @@ Examples of behavior that contributes to a positive environment include:
 <!-- Checkpoint: 2026-05-15 - sec(pci-isolation): implement PCI-DSS tenant isolation rules in customer GCVE private cloud -->
 
 <!-- Checkpoint: 2026-05-18 - refactor(perimeter-firewall): optimize egress gateway inspection policies for client workload -->
+
+<!-- Checkpoint: 2026-05-22 - docs(architecture): update hybrid connectivity security baseline for client architecture board -->
