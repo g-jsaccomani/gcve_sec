@@ -165,3 +165,5 @@ gcve_sec/
 <!-- Checkpoint: 2026-05-23 - refactor(perimeter-firewall): optimize egress gateway inspection policies for client workload -->
 
 <!-- Checkpoint: 2026-05-28 - sec(nsx-t): deploy micro-segmentation firewall rules for customer core banking tier -->
+
+<!-- Checkpoint: 2026-05-28 - feat(network-rules): configure distributed IDS/IPS profiles for external client migration -->
