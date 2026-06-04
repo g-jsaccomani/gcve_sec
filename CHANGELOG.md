@@ -743,3 +743,6 @@ All notable changes and security updates recorded below.
 ### [2026-06-03] fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client
 - Resolved packet fragmentation and handshake latency over Cloud Interconnect with client on-prem DC.
 
+### [2026-06-04] docs(architecture): update hybrid connectivity security baseline for client architecture board
+- Documented enterprise architecture diagram for GCVE interconnectivity with GCP VPC.
+
