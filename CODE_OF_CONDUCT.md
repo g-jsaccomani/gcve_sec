@@ -119,3 +119,5 @@ Examples of behavior that contributes to a positive environment include:
 <!-- Checkpoint: 2026-05-28 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
 
 <!-- Checkpoint: 2026-06-05 - sec(pci-isolation): implement PCI-DSS tenant isolation rules in customer GCVE private cloud -->
+
+<!-- Checkpoint: 2026-06-08 - refactor(perimeter-firewall): optimize egress gateway inspection policies for client workload -->
