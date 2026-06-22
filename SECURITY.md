@@ -113,3 +113,5 @@ Your report will be evaluated and responded to as soon as possible.
 <!-- Checkpoint: 2026-06-11 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
 
 <!-- Checkpoint: 2026-06-16 - feat(bastion-iam): enforce context-aware IAP access to client GCVE management consoles -->
+
+<!-- Checkpoint: 2026-06-22 - feat(vcenter-sso): streamline vCenter SSO integration with Google Cloud Identity for client admins -->
