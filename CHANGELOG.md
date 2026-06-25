@@ -26,3 +26,6 @@ All notable changes and security updates recorded below.
 ### [2026-04-23] sec(compute): configure OS Config patch policies and SSH daemon hardening profiles
 - Completed milestone deliverables and technical verification.
 
+### [2026-06-25] ci(pipeline): configure automated linting and security gate workflows
+- Completed milestone deliverables and technical verification.
+
