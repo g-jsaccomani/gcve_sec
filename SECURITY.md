@@ -115,3 +115,5 @@ Your report will be evaluated and responded to as soon as possible.
 <!-- Checkpoint: 2026-06-16 - feat(bastion-iam): enforce context-aware IAP access to client GCVE management consoles -->
 
 <!-- Checkpoint: 2026-06-22 - feat(vcenter-sso): streamline vCenter SSO integration with Google Cloud Identity for client admins -->
+
+<!-- Checkpoint: 2026-06-25 - refactor(perimeter-firewall): optimize egress gateway inspection policies for client workload -->
