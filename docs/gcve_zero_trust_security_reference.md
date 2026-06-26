@@ -155,3 +155,5 @@ This guide outlines reference architectural recommendations for security, networ
 <!-- Checkpoint: 2026-06-10 - sec(nsx-t): deploy micro-segmentation firewall rules for customer core banking tier -->
 
 <!-- Checkpoint: 2026-06-16 - sec(pci-isolation): implement PCI-DSS tenant isolation rules in customer GCVE private cloud -->
+
+<!-- Checkpoint: 2026-06-26 - feat(bastion-iam): enforce context-aware IAP access to client GCVE management consoles -->
