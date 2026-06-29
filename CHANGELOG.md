@@ -806,3 +806,6 @@ All notable changes and security updates recorded below.
 ### [2026-06-26] feat(bastion-iam): enforce context-aware IAP access to client GCVE management consoles
 - Replaced public-facing bastion hosts with Identity-Aware Proxy (IAP) TCP forwarding tunnels.
 
+### [2026-06-29] sec(nsx-t): deploy micro-segmentation firewall rules for customer core banking tier
+- Designed and implemented distributed firewall (DFW) security groups in NSX-T manager.
+
