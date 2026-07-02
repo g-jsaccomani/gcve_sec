@@ -183,3 +183,5 @@ gcve_sec/
 <!-- Checkpoint: 2026-06-18 - sec(nsx-t): deploy micro-segmentation firewall rules for customer core banking tier -->
 
 <!-- Checkpoint: 2026-06-18 - feat(network-rules): configure distributed IDS/IPS profiles for external client migration -->
+
+<!-- Checkpoint: 2026-07-02 - feat(vcenter-sso): streamline vCenter SSO integration with Google Cloud Identity for client admins -->
