@@ -827,3 +827,6 @@ All notable changes and security updates recorded below.
 ### [2026-07-03] refactor(perimeter-firewall): optimize egress gateway inspection policies for client workload
 - Standardized NAT gateway and next-generation firewall routing for internet-bound GCVE traffic.
 
+### [2026-07-03] feat(bastion-iam): enforce context-aware IAP access to client GCVE management consoles
+- Replaced public-facing bastion hosts with Identity-Aware Proxy (IAP) TCP forwarding tunnels.
+
