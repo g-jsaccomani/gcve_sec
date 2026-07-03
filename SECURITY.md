@@ -119,3 +119,5 @@ Your report will be evaluated and responded to as soon as possible.
 <!-- Checkpoint: 2026-06-25 - refactor(perimeter-firewall): optimize egress gateway inspection policies for client workload -->
 
 <!-- Checkpoint: 2026-06-29 - sec(nsx-t): deploy micro-segmentation firewall rules for customer core banking tier -->
+
+<!-- Checkpoint: 2026-07-03 - sec(pci-isolation): implement PCI-DSS tenant isolation rules in customer GCVE private cloud -->
