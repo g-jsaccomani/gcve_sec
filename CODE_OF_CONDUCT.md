@@ -127,3 +127,5 @@ Examples of behavior that contributes to a positive environment include:
 <!-- Checkpoint: 2026-06-12 - feat(vcenter-sso): streamline vCenter SSO integration with Google Cloud Identity for client admins -->
 
 <!-- Checkpoint: 2026-07-01 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
+
+<!-- Checkpoint: 2026-07-03 - refactor(perimeter-firewall): optimize egress gateway inspection policies for client workload -->
