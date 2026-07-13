@@ -159,3 +159,5 @@ This guide outlines reference architectural recommendations for security, networ
 <!-- Checkpoint: 2026-06-26 - feat(bastion-iam): enforce context-aware IAP access to client GCVE management consoles -->
 
 <!-- Checkpoint: 2026-06-30 - feat(network-rules): configure distributed IDS/IPS profiles for external client migration -->
+
+<!-- Checkpoint: 2026-07-13 - docs(architecture): update hybrid connectivity security baseline for client architecture board -->
