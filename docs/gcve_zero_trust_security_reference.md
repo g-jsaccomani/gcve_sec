@@ -161,3 +161,5 @@ This guide outlines reference architectural recommendations for security, networ
 <!-- Checkpoint: 2026-06-30 - feat(network-rules): configure distributed IDS/IPS profiles for external client migration -->
 
 <!-- Checkpoint: 2026-07-13 - docs(architecture): update hybrid connectivity security baseline for client architecture board -->
+
+<!-- Checkpoint: 2026-07-15 - refactor(perimeter-firewall): optimize egress gateway inspection policies for client workload -->
