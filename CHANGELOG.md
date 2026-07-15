@@ -845,3 +845,6 @@ All notable changes and security updates recorded below.
 ### [2026-07-14] feat(vcenter-sso): streamline vCenter SSO integration with Google Cloud Identity for client admins
 - Configured SAML 2.0 federated identity provider between Google Workspace and VMware vCenter.
 
+### [2026-07-15] sec(pci-isolation): implement PCI-DSS tenant isolation rules in customer GCVE private cloud
+- Configured dedicated compute clusters and isolated VLAN segments for cardholder data environment (CDE).
+

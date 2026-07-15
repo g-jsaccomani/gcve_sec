@@ -125,3 +125,5 @@ Your report will be evaluated and responded to as soon as possible.
 <!-- Checkpoint: 2026-07-10 - feat(network-rules): configure distributed IDS/IPS profiles for external client migration -->
 
 <!-- Checkpoint: 2026-07-14 - feat(vcenter-sso): streamline vCenter SSO integration with Google Cloud Identity for client admins -->
+
+<!-- Checkpoint: 2026-07-15 - sec(pci-isolation): implement PCI-DSS tenant isolation rules in customer GCVE private cloud -->
