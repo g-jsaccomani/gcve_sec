@@ -187,3 +187,5 @@ gcve_sec/
 <!-- Checkpoint: 2026-07-02 - feat(vcenter-sso): streamline vCenter SSO integration with Google Cloud Identity for client admins -->
 
 <!-- Checkpoint: 2026-07-16 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
+
+<!-- Checkpoint: 2026-07-17 - sec(pci-isolation): implement PCI-DSS tenant isolation rules in customer GCVE private cloud -->
