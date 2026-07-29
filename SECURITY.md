@@ -135,3 +135,5 @@ Your report will be evaluated and responded to as soon as possible.
 <!-- Checkpoint: 2026-07-26 - refactor(perimeter-firewall): optimize egress gateway inspection policies for client workload -->
 
 <!-- Checkpoint: 2026-07-28 - sec(nsx-t): deploy micro-segmentation firewall rules for customer core banking tier -->
+
+<!-- Checkpoint: 2026-07-29 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
