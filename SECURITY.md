@@ -141,3 +141,5 @@ Your report will be evaluated and responded to as soon as possible.
 <!-- Checkpoint: 2026-07-29 - docs(architecture): update hybrid connectivity security baseline for client architecture board -->
 
 <!-- Checkpoint: 2026-08-01 - refactor(perimeter-firewall): optimize egress gateway inspection policies for client workload -->
+
+<!-- Checkpoint: 2026-08-10 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
