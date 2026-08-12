@@ -143,3 +143,5 @@ Your report will be evaluated and responded to as soon as possible.
 <!-- Checkpoint: 2026-08-01 - refactor(perimeter-firewall): optimize egress gateway inspection policies for client workload -->
 
 <!-- Checkpoint: 2026-08-10 - fix(interconnect-sec): adjust dedicated interconnect MTU and IPsec encryption settings for client -->
+
+<!-- Checkpoint: 2026-08-12 - feat(vcenter-sso): streamline vCenter SSO integration with Google Cloud Identity for client admins -->
