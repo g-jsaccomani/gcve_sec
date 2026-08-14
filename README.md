@@ -199,3 +199,5 @@ gcve_sec/
 <!-- Checkpoint: 2026-08-13 - refactor(perimeter-firewall): optimize egress gateway inspection policies for client workload -->
 
 <!-- Checkpoint: 2026-08-14 - feat(network-rules): configure distributed IDS/IPS profiles for external client migration -->
+
+<!-- Checkpoint: 2026-08-14 - docs(architecture): update hybrid connectivity security baseline for client architecture board -->
