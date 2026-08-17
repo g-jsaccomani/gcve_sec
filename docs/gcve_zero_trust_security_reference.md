@@ -175,3 +175,5 @@ This guide outlines reference architectural recommendations for security, networ
 <!-- Checkpoint: 2026-08-13 - feat(bastion-iam): enforce context-aware IAP access to client GCVE management consoles -->
 
 <!-- Checkpoint: 2026-08-14 - sec(nsx-t): deploy micro-segmentation firewall rules for customer core banking tier -->
+
+<!-- Checkpoint: 2026-08-17 - refactor(perimeter-firewall): optimize egress gateway inspection policies for client workload -->
