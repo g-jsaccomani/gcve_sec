@@ -201,3 +201,5 @@ gcve_sec/
 <!-- Checkpoint: 2026-08-14 - feat(network-rules): configure distributed IDS/IPS profiles for external client migration -->
 
 <!-- Checkpoint: 2026-08-14 - docs(architecture): update hybrid connectivity security baseline for client architecture board -->
+
+<!-- Checkpoint: 2026-08-17 - sec(nsx-t): deploy micro-segmentation firewall rules for customer core banking tier -->
